@@ -16,11 +16,13 @@
 
 **🔹 Data Analyst and Software Developer Intern**  
 *Volvo Cars, Gothenburg, Sweden* (January 2024 - July 2024)  
+
 - ⚙️ Applied advanced analytical skills and programming expertise to analyze complex datasets and develop innovative software solutions.
 - 🔄 Successfully enhanced durability testing processes by automating data workflows and improving data accuracy.
 
 **🔹 Freelance Graphic Designer**  
 *Freelance, Mansoura, Egypt* (January 2019 - January 2024)  
+
 - 🎨 Specializing in branding, print design, and UI/UX design.
 - 🖌️ Proficient in Photoshop and Illustrator with experience in data-driven design strategies.
 
@@ -54,14 +56,18 @@
 ## 🛠️ Skills
 
 **Languages:**  
+
 - Python 🐍  
 - SQL 🗄️  
 - VB.NET 💻
+- C#
 
 **Tools:**  
+
 - VS Code, Git & GitHub, Excel, PowerBI, MySQL, Photoshop, Illustrator, PyCharm, PowerPoint
 
 **Soft Skills:**  
+
 - 💬 Communication skills  
 - 🧠 Problem solving  
 - 📊 Presentation skills  
