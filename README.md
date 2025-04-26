@@ -1,75 +1,44 @@
-# Ahmed Shehata Said Abdelwahed
+# 👋 Hi there! I'm Ahmed, a Junior Data Engineer
 
-✨ **Junior Data Analyst**  
-📍 Mansoura, Egypt | ✉️ [ahmedshehatasaid1@gmail.com](mailto:ahmedshehatasaid1@gmail.com) | 📞 +201065209945  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-abdelwahed) | 💻 [GitHub](https://www.github.com/ahmed-abdelwahed1)
-
----
-
-## 📝 Personal Statement
-
-🎯 Detail-oriented Junior Data Analyst with a strong foundation in statistical analysis, data visualization, and SQL. Proficient in leveraging Python, Excel, and PowerBI to analyze large datasets and uncover actionable insights that drive business decisions. Demonstrated ability to collaborate with cross-functional teams to solve complex problems and optimize processes. Seeking to contribute analytical skills and passion for data-driven decision-making to a dynamic team.
+Welcome to my GitHub profile!  
+I’m passionate about **data engineering**, **ETL pipelines**, and turning raw data into meaningful insights.
 
 ---
 
-## 💼 Work Experience
-
-**🔹 Data Analyst and Software Developer Intern**  
-*Volvo Cars, Gothenburg, Sweden* (January 2024 - July 2024)  
-
-- ⚙️ Applied advanced analytical skills and programming expertise to analyze complex datasets and develop innovative software solutions.
-- 🔄 Successfully enhanced durability testing processes by automating data workflows and improving data accuracy.
-
-**🔹 Freelance Graphic Designer**  
-*Freelance, Mansoura, Egypt* (January 2019 - January 2024)  
-
-- 🎨 Specializing in branding, print design, and UI/UX design.
-- 🖌️ Proficient in Photoshop and Illustrator with experience in data-driven design strategies.
+## 🚀 About Me
+- 🎓 Junior Data Engineer with a strong foundation in **Python**, **SQL**, and **data pipelines**.
+- 🔧 Building ETL processes, cleaning and transforming data, and designing efficient workflows.
+- 🌱 Currently learning more about **Apache Airflow**, **Docker**, and **cloud platforms** (AWS & GCP).
+- 📊 Interested in data analytics, automation, and real-time data processing.
+- 📚 Following the OSSU Computer Science path and always leveling up my skills.
 
 ---
 
-## 🎓 Education
+## 🛠️ Tools & Technologies
 
-**🎓 Bachelor Degree**  
-*Mansoura University, Faculty of Specific Education* (2022 - Present)
-
----
-
-## 📜 Certificates
-
-- **IBM Data Analyst Professional Certificate**  
-  - 🗂️ Introduction to Data Analytics  
-  - 📊 Excel Basics for Data Analysis  
-  - 📈 Data Visualization and Dashboards with Excel and Cognos  
-  - 🐍 Python for Data Science, AI & Development  
-  - 🧑‍💻 Python Project for Data Science  
-  - 🗄️ Databases and SQL for Data Science with Python  
-  - 📊 Data Analysis with Python  
-  - 📈 Data Visualization with Python  
-  - 🎓 IBM Data Analyst Capstone Project
-
-- **Data Analysis Using Python** - University of Pennsylvania  
-- **Version Control** - Meta
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 📂 Featured Projects
+Here are a few things I’m working on or have built:
 
-**Languages:**  
+- 🛠️ **ETL Pipeline Demo** – A Python-based pipeline that extracts data from an API, transforms it, and loads it into a PostgreSQL DB.
+- 📈 **Sales Data Analysis** – SQL and pandas-powered analysis of sales performance.
+- 🧠 **Learning Notebook** – My personal notes and experiments as I learn data engineering tools.
 
-- Python 🐍  
-- SQL 🗄️  
-- VB.NET 💻
-- C#
+---
 
-**Tools:**  
+## 📬 Let's Connect!
 
-- VS Code, Git & GitHub, Excel, PowerBI, MySQL, Photoshop, Illustrator, PyCharm, PowerPoint
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-abdelwahed/)
+- 📫 Reach me at: ahmedabdelwahed@ieee.org
 
-**Soft Skills:**  
-
-- 💬 Communication skills  
-- 🧠 Problem solving  
-- 📊 Presentation skills  
-- 🤝 Team worker  
-- 🗣️ Decision making
+Thanks for stopping by! Stay curious 🚀  
