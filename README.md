@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjcxMjA0MGM0M2U3MTcxZGRkYjY0NzAxZDdiZjc5NzUzZjFjMzIzOCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="500" alt="Pixel Anime Boy Coding" />
+</p>
+
+
 # 👋 Hi there! I'm Ahmed, a Junior Data Engineer
 
 Welcome to my GitHub profile!  
@@ -38,7 +43,7 @@ Here are a few things I’m working on or have built:
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-abdelwahed/)
-- 📫 Reach me at: ahmedabdelwahed@ieee.org
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)
+- 📫 Reach me at: your.email@example.com
 
 Thanks for stopping by! Stay curious 🚀  
