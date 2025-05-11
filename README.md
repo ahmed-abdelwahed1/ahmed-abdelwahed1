@@ -10,7 +10,6 @@
 
 - 📍 Based in Egypt
 - 🛠️ Junior Data Engineer | Python & SQL enthusiast
-- 🌱 Currently diving deeper into Airflow, Docker & Cloud (AWS/GCP)
 - 📚 OSSU CS Path + University + Real-world projects
 - 🧠 I love turning messy data into clear insights
 
