@@ -32,8 +32,8 @@
 
 ## 📬 Let's Connect!
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- 📩 Email: your.email@example.com
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/ahmed-abdelwahed)
+- 📩 Email: ahmedabdelwahed@ieee.org
 
 ---
 
