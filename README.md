@@ -1,3 +1,5 @@
+![👋 Hi, my name is Ahmed Abdelwahed](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h1 align="center">Hi, I'm Ahmed — Junior Data Engineer 👋</h1>
 
 <p align="center">
@@ -7,6 +9,8 @@
 ---
 
 ## 🧑‍💻 About Me
+
+![gif](https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif)
 
 - 📍 Based in Egypt
 - 🛠️ Junior Data Engineer | Python & SQL enthusiast
