@@ -6,16 +6,6 @@
   Passionate about building data pipelines, automating workflows, and making data useful.
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-![gif](https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif)
-
-- 📍 Based in Egypt
-- 🛠️ Junior Data Engineer | Python & SQL enthusiast
-- 📚 OSSU CS Path + University + Real-world projects
-- 🧠 I love turning messy data into clear insights
 
 ---
 
@@ -39,6 +29,3 @@
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/ahmed-abdelwahed)
 - 📩 Email: ahmedabdelwahed@ieee.org
 
----
-
-_Thanks for visiting my profile! Stay curious and keep building 🚀_
