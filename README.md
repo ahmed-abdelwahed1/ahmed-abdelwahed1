@@ -1,9 +1,12 @@
 ![👋 Hi, my name is Ahmed Abdelwahed](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi, I'm Ahmed — Junior Data Engineer 👋</h1>
+<h1 align="center">Hi, I'm Ahmed — Data Engineer 👋</h1>
 
 <p align="center">
-  Passionate about building data pipelines, automating workflows, and making data useful.
+  I design systems, build data pipelines, and turn ideas into working products.
+Interested in data engineering, AI-driven tools, and practical software that people actually use.
+Currently studying and building along the way.
+Open to collaborations and opportunities.
 </p>
 
 
