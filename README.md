@@ -1,34 +1,95 @@
 ![👋 Hi, my name is Ahmed Abdelwahed](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi, I'm Ahmed — Data Engineer 👋</h1>
+<h1 align="center">Ahmed Abdelwahed</h1>
+
+<h3 align="center">Data Engineer · Pipeline Architect · AI Enthusiast</h3>
 
 <p align="center">
-  I design systems, build data pipelines, and turn ideas into working products.
-Interested in data engineering, AI-driven tools, and practical software that people actually use.
-Currently studying and building along the way.
-Open to collaborations and opportunities.
+  <a href="https://ahmedabdelwahed.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ahmedabdelwahed.me-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-abdelwahed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Abdelwahed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedabdelwahed@ieee.org">
+    <img src="https://img.shields.io/badge/Email-ahmedabdelwahed%40ieee.org-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Data Engineer** passionate about designing scalable data systems, building reliable pipelines, and delivering insights that drive real decisions. I enjoy working at the intersection of data engineering and AI — turning raw, messy data into clean, actionable value.
+
+- 🔭 Currently building data pipelines and exploring AI-driven tooling
+- 🌱 Continuously learning — distributed systems, cloud data platforms, and MLOps
+- 🤝 Open to collaborations, freelance projects, and full-time opportunities
+- 🌐 Personal website: [ahmedabdelwahed.me](https://ahmedabdelwahed.me/)
 
 ---
 
 ## ⚙️ Tech Stack
 
+**Languages & Query**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
+**Data Engineering & Orchestration**
 
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+</p>
+
+**Data & Storage**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**Libraries & Analysis**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Infrastructure & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
-## 📬 Let's Connect!
+## 📊 GitHub Stats
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/ahmed-abdelwahed)
-- 📩 Email: ahmedabdelwahed@ieee.org
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-abdelwahed1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abdelwahed1&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+| Platform | Link |
+|----------|------|
+| 🌐 Website | [ahmedabdelwahed.me](https://ahmedabdelwahed.me/) |
+| 🧑‍💼 LinkedIn | [ahmed-abdelwahed](https://www.linkedin.com/in/ahmed-abdelwahed) |
+| 📩 Email | [ahmedabdelwahed@ieee.org](mailto:ahmedabdelwahed@ieee.org) |
 
