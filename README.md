@@ -16,7 +16,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -27,7 +26,6 @@ I'm a **Data Engineer** passionate about designing scalable data systems, buildi
 - 🤝 Open to collaborations, freelance projects, and full-time opportunities
 - 🌐 Personal website: [ahmedabdelwahed.me](https://ahmedabdelwahed.me/)
 
----
 
 ## ⚙️ Tech Stack
 
